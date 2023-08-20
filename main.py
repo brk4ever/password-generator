@@ -1,11 +1,10 @@
+#Random Password Generator using Python Programming Language
+#Author: Burak İrtel
 
-Random Password Generator using Python Programming Language
-Author: Burak İrtel
-'''
 import random
 import string
 
-print('This program generates random password with desired length. Password includes upper case, lower case, number, and characters!. Enjoy')
+print('This programme generates random password with desired length. Password includes upper case, lower case, number, and characters!. Enjoy')
 
 length = int(input('\nEnter the length of password: '))                      
 
